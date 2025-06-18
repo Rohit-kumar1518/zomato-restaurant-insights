@@ -1,0 +1,2 @@
+This project explores a dataset of 65,000+ restaurants listed on Zomato across major Indian cities. The data includes restaurant names, locations, ratings, cuisines, average cost for two, order modes (online/offline), table reservation availability, and popular dishes.
+Objective : To analyze customer preferences, pricing trends, and service patterns to generate actionable insights for restaurants and platform strategy.
